@@ -43,7 +43,7 @@
                                 <rect key="frame" x="140" y="431" width="41" height="30"/>
                                 <state key="normal" title="OPEN"/>
                                 <connections>
-                                    <segue destination="70D-OF-bdX" kind="show" id="ajb-4X-PjL"/>
+                                    <segue destination="70D-OF-bdX" kind="show" identifier="openColor" id="ajb-4X-PjL"/>
                                 </connections>
                             </button>
                         </subviews>
